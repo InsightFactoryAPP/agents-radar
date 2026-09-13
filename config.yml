@@ -33,6 +33,9 @@ cli_repos:
   - id: qwen-code
     repo: QwenLM/qwen-code
     name: Qwen Code
+  - id: yylo
+    repo: yylo-dev/yylo
+    name: YYLO
 
 # ── Claude Code Skills ────────────────────────────────────────────────────────
 # Tracked separately without a date filter, sorted by community engagement.
