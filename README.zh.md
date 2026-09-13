@@ -125,6 +125,7 @@ wrangler deploy
 | OpenCode | [anomalyco/opencode](https://github.com/anomalyco/opencode) |
 | Pi | [earendil-works/pi](https://github.com/earendil-works/pi) |
 | Qwen Code | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) |
+| YYLO | [yylo-dev/yylo](https://github.com/yylo-dev/yylo) |
 
 在 `config.yml` 中标记 `discussions: true` 的仓库（Codex、Pi）会额外抓取 GitHub Discussions。
 
