@@ -125,6 +125,7 @@ wrangler deploy
 | OpenCode | [anomalyco/opencode](https://github.com/anomalyco/opencode) |
 | Pi | [earendil-works/pi](https://github.com/earendil-works/pi) |
 | Qwen Code | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) |
+| YYLO | [yylo-dev/yylo](https://github.com/yylo-dev/yylo) |
 
 Repos marked `discussions: true` in `config.yml` (Codex, Pi) also have their GitHub Discussions
 pulled in.
